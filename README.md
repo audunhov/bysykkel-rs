@@ -2,6 +2,8 @@
 
 Enkelt verktøy for å hente status fra forhåndsvalgte bysykkel-stasjoner. Bidra gjerne!
 
+Publiseres på crates.io etter henting fra konfig er gjort på en tilfredsstillende måte
+
 ## Dependencies
 
 Du må ha cargo innstallert og på $PATH
